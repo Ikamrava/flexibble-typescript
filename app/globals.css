@@ -23,7 +23,7 @@ body {
 }
 
 .flexStart {
-  @apply flex items-center justify-start;
+  @apply flex items-center justify-start ;
 }
 
 .text-small {
@@ -67,9 +67,9 @@ body {
 }
 
 /* Project Actions */
-.edit-action_btn {
+/* .edit-action_btn {
   @apply p-3 text-gray-100 bg-light-white-400 rounded-lg text-sm font-medium;
-}
+} */
 
 .delete-action_btn {
   @apply p-3 text-gray-100 hover:bg-red-600 rounded-lg text-sm font-medium;
